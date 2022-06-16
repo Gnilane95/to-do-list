@@ -17,7 +17,9 @@ button{
 
 }
 .case{
-   margin-left: 450px;
-   margin-right: 450px;
+   margin: 3% auto;
    border-radius: 10px;
+   padding: 2%;
+   width: 40%;
+    cursor: pointer;
 }
